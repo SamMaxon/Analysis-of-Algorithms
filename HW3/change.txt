@@ -1,0 +1,15 @@
+Data input: c = 5, k = 4, n = 126
+Denomination: 625 | Quantity: 0
+Denomination: 125 | Quantity: 1
+Denomination: 25 | Quantity: 0
+Denomination: 5 | Quantity: 0
+Denomination: 1 | Quantity: 1
+Total Coins Used: 2
+
+Data input: c = 4, k = 3, n = 73
+Denomination: 64 | Quantity: 1
+Denomination: 16 | Quantity: 0
+Denomination: 4 | Quantity: 2
+Denomination: 1 | Quantity: 1
+Total Coins Used: 4
+
